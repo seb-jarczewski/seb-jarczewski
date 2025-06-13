@@ -1,4 +1,5 @@
-👨🏻‍🔬 I am a scientist aspiring to become a programmer.<br>
-🖥️ I have been coding in Python for over a year.<br>
-🔎 I am currently learning various back-end web development concepts.<br>
-😎 I really enjoy Flutter/Dart SDK.
+👨🏻‍🔬 I’m a scientist turned aspiring developer.<br>
+🧪 Combining chemistry with code to solve real lab problems.<br>
+🐍 I've been coding in Python for over two years, and loving it.<br>
+🌐 Currently diving deeper into back-end web development.<br>
+🚀 Building SaaS projects designed for research labs.
